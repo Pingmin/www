@@ -1,0 +1,14 @@
+#
+# robots.txt for Pingmin personal main website https://www.pingmin.me .
+#
+
+User-agent: *
+Allow: /$
+Disallow: /
+
+
+#
+# Pingmin Fenlly Liu
+#
+# 20170904 ~ 20250817
+#
